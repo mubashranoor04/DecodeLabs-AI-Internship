@@ -34,16 +34,6 @@ No machine learning model is used in this project; all responses are rule-driven
 
 ---
 
-## Project Structure
-
-
-rule-based-ai-chatbot/
-│
-├── main.py (or chatbot.py)
-└── README.md
-
-
----
 
 ## How to Run
 
