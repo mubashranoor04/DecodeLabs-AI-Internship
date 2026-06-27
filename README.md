@@ -58,5 +58,4 @@ python main.py
 
 ## Author
 
-Mubashra Noor  
-Computer Science Student | AI Intern
+Mubashra Noor 
